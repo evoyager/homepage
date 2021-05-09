@@ -1,3 +1,4 @@
 .DS_Store
 workbox-ee*
 sw.js.map
+.vercel
